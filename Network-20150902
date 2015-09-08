@@ -1,0 +1,36 @@
+Network-20150902 -*- mode: markdown -*-
+
+# What is the Network
+
+## Components of network
+* node - Router, Computer, etc..
+* link -
+* toplogy
+
+# What is the Internet?
+
+# Millions of connected computing devices
+* Host - leaf nodes.
+  * Runs networking apps.
+* Communication links
+  * Fiber, Copper, radio, etc.
+  * TX rate - bandwidth
+* Packet switches - Forward packets
+  * routers and switches
+
+# Protocols control sending, recving messages. 
+TCP/IP, HTTP, 802.11, etc...
+
+# Internet standards
+  * RFC: Request For Comments
+  * IETF: Internet Engineering Task Force
+
+# What is the Internet: a service view.
+
+## What's a protocol?
+* Network protocols
+  * machines rather then humans.
+  * All communications activity in internet governed by protocols.
+
+>Protocols define format, order of msgs sent over network.
+
